@@ -16,6 +16,6 @@
     * **Diana DeGette**
     * Vote Count: 272,892
     * Vote Percentage: 73.8%
-##### [Audit Script Output](https://github.com/SamuelBerryProgramming/PyPoll/tree/master/analysis/election_analysis.txt)    
+##### [Audit Script Output](https://github.com/SamuelBerryProgramming/PyPoll/tree/master/analysis/election_results.txt)    
 ## Election Audit Summary
   The script prepared for this analysis is quite robust, and with a few modifications, could be used to analyse results for any election. To accommodate for larger, disjunct datasets the input could be modified to accept several csv files and calculate the results across those files. In addition, it could create a graphic showing each candidate and their affilate party winning each county in the state. The graphic could then be used as an easy method to distribute the results to news companies and public.
